@@ -1,0 +1,6 @@
+console.log('1')
+console.info('1')
+console.error('1')
+console.warn('1')
+console.dir('1')
+console.time('1')
